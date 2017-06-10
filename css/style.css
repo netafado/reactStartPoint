@@ -1,0 +1,11 @@
+body {
+  background: #d5d5; 
+  font-family: arial;
+  color: #FAFAFA;
+  text-transform: uppercase;
+}
+
+.titulo{
+  color: black;
+  text-align: center;
+}
